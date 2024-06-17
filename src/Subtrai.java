@@ -1,4 +1,4 @@
-public class Subtração {
+public class Subtrai {
     public static void main (String[] args){
         int a,b,subtracao;
         a=10;
